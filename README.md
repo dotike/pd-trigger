@@ -1,12 +1,12 @@
-The canonical home for this utility is here:
+You are looking at a maintinence fork.  The canonical home for this utility is here:
 
 https://github.com/enigma-io/pd-trigger
 
-Alternatively, the principal author also maintains a fork for maintinence,
+Alternatively, the principal author also maintains this fork for maintinence,
 
 https://github.com/dotike/pd-trigger
-  - or -
-git clone http://blackskyresearch.net/repos/pd-trigger.git
+*or*
+    $ git clone http://blackskyresearch.net/repos/pd-trigger.git
 
 
 pd-trigger
