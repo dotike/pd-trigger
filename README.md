@@ -1,3 +1,14 @@
+The canonical home for this utility is here:
+
+https://github.com/enigma-io/pd-trigger
+
+Alternatively, the principal author also maintains a fork for maintinence,
+
+https://github.com/dotike/pd-trigger
+  - or -
+git clone http://blackskyresearch.net/repos/pd-trigger.git
+
+
 pd-trigger
 ====================
 
